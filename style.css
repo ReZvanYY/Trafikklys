@@ -1,0 +1,54 @@
+.background {
+      border: solid;
+    border-radius: 60%;
+    width: 150px;
+    height: 150px;
+    color: azure;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.webbackground {
+    background-color: black;
+    width: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: solid;
+    border-radius: 20px;
+
+}
+
+.feet{
+
+    border: solid; color: gray;
+    height: 250px;
+    width: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: gray;
+}
+
+.ground{
+    border: solid; color: black;
+    height: 50px;
+    width: 450px;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.colorbuttons {
+    text-align: center;
+}
